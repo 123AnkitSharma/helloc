@@ -1,3 +1,2 @@
 # helloc
-polling
-polling
+webhook
